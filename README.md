@@ -8,3 +8,9 @@ The idea is firstly doing it in python and later on creating a private and copyr
 Use it in your own risk, it only a test and this shall be used only by who knows what they're doing.
 
 I'm not responsible by anything, i will not create anything besides the working code, how and for what you use is your responsability, because you created the sequencial way to do something you intended.
+
+
+
+
+
+Main Author: Pietro Porsch Wilhelms
